@@ -25,6 +25,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     background-color: coral;
+    font-weight: bolder;
 }
 #c {
     position: absolute;
@@ -37,6 +38,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     background-color: darkorange;
+    font-weight: bolder;
 }
 #retour {
     position: absolute;
@@ -49,6 +51,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     background-color: deeppink;
+    font-weight: bolder;
     
 }
 #divise {
@@ -62,6 +65,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     background-color: dodgerblue;
+    font-weight: bolder;
 }
 #sept {
     position: absolute;
@@ -73,6 +77,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bolder;
 }
 #huit {
     position: absolute;
@@ -84,6 +89,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bolder;
 }
 #neuf {
     position: absolute;
@@ -95,6 +101,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bolder;
 }
 #multiplie {
     position: absolute;
@@ -107,6 +114,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     background-color: green;
+    font-weight: bolder;
 }
 #quatre {
     position: absolute;
@@ -118,6 +126,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bolder;
 }
 #cinq {
     position: absolute;
@@ -129,6 +138,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bolder;
 }
 #six {
     position: absolute;
@@ -140,6 +150,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bolder;
 }
 #soustrait {
     position: absolute;
@@ -152,6 +163,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     background-color: red;
+    font-weight: bolder;
 }
 #un {
     position: absolute;
@@ -163,6 +175,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bolder;
 }
 #deux {
     position: absolute;
@@ -174,6 +187,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bolder;
 }
 #trois {
     position: absolute;
@@ -185,6 +199,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bolder;
 }
 #additionne {
     position: absolute;
@@ -197,6 +212,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     background-color: yellow;
+    font-weight: bolder;
 }
 #inversion {
     position: absolute;
@@ -209,6 +225,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     background-color: maroon;
+    font-weight: bolder;
 }
 #zero {
     position: absolute;
@@ -220,6 +237,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bolder;
 }
 #virgule {
     position: absolute;
@@ -232,6 +250,7 @@ button:hover {
     justify-content: center;
     align-items: center;
     background-color: mediumaquamarine;
+    font-weight: bolder;
 }
 #egal {
     position: absolute;
@@ -244,4 +263,5 @@ button:hover {
     justify-content: center;
     align-items: center;
     background-color: darkorchid;
+    font-weight: bolder;
 }
