@@ -24,6 +24,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: coral;
 }
 #c {
     position: absolute;
@@ -35,6 +36,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: darkorange;
 }
 #retour {
     position: absolute;
@@ -46,6 +48,8 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: deeppink;
+    
 }
 #divise {
     position: absolute;
@@ -57,7 +61,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: blue;
+    background-color: dodgerblue;
 }
 #sept {
     position: absolute;
@@ -204,6 +208,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: maroon;
 }
 #zero {
     position: absolute;
@@ -226,6 +231,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: mediumaquamarine;
 }
 #egal {
     position: absolute;
@@ -237,5 +243,5 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: purple;
+    background-color: darkorchid;
 }
