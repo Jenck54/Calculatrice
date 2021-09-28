@@ -10,6 +10,10 @@
     align-items: center;
     justify-content: end;
 }
+button:hover {
+    cursor: pointer;
+    background-color: grey;
+}
 #ce {
     position: absolute;
     width: 100px;
@@ -53,6 +57,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: blue;
 }
 #sept {
     position: absolute;
@@ -97,6 +102,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: green;
 }
 #quatre {
     position: absolute;
@@ -141,6 +147,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: red;
 }
 #un {
     position: absolute;
@@ -185,6 +192,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: yellow;
 }
 #inversion {
     position: absolute;
@@ -229,4 +237,5 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: purple;
 }
