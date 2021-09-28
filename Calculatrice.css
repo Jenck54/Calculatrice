@@ -1,10 +1,11 @@
 .ecran {
     position: absolute;
-    width: 405px;
+    width: 415px;
     height: 50px;
     border: 2px solid black;
     left: 700px;
     top: 250px;
+    border-radius: 10px;
 }
 .ce {
     position: absolute;
@@ -13,6 +14,7 @@
     border: 2px solid black;
     left: 700px;
     top: 305px;
+    border-radius: 10px;
 }
 .c {
     position: absolute;
@@ -21,4 +23,167 @@
     border: 2px solid black;
     left: 805px;
     top: 305px;
+    border-radius: 10px;
+}
+.retour {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 910px;
+    top: 305px;
+    border-radius: 10px;
+}
+.divise {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 1015px;
+    top: 305px;
+    border-radius: 10px;
+}
+.sept {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 700px;
+    top: 360px;
+    border-radius: 10px;
+}
+.huit {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 805px;
+    top: 360px;
+    border-radius: 10px;
+}
+.neuf {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 910px;
+    top: 360px;
+    border-radius: 10px;
+}
+.multiplie {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 1015px;
+    top: 360px;
+    border-radius: 10px;
+}
+.quatre {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 700px;
+    top: 415px;
+    border-radius: 10px;
+}
+.cinq {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 805px;
+    top: 415px;
+    border-radius: 10px;
+}
+.six {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 910px;
+    top: 415px;
+    border-radius: 10px;
+}
+.soustrait {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 1015px;
+    top: 415px;
+    border-radius: 10px;
+}
+.un {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 700px;
+    top: 470px;
+    border-radius: 10px;
+}
+.deux {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 805px;
+    top: 470px;
+    border-radius: 10px;
+}
+.trois {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 910px;
+    top: 470px;
+    border-radius: 10px;
+}
+.additionne {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 1015px;
+    top: 470px;
+    border-radius: 10px;
+}
+.inversion {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 700px;
+    top: 525px;
+    border-radius: 10px;
+}
+.zero {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 805px;
+    top: 525px;
+    border-radius: 10px;
+}
+.virgule {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 910px;
+    top: 525px;
+    border-radius: 10px;
+}
+.egal {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    left: 1015px;
+    top: 525px;
+    border-radius: 10px;
 }
