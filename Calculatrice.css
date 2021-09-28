@@ -1,189 +1,232 @@
-.ecran {
+#ecran {
     position: absolute;
-    width: 415px;
+    width: 410px;
     height: 50px;
     border: 2px solid black;
     left: 700px;
-    top: 250px;
+    top: 245px;
     border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
 }
-.ce {
+#ce {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 700px;
     top: 305px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.c {
+#c {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 805px;
     top: 305px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.retour {
+#retour {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 910px;
     top: 305px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.divise {
+#divise {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 1015px;
     top: 305px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.sept {
+#sept {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 700px;
     top: 360px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.huit {
+#huit {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 805px;
     top: 360px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.neuf {
+#neuf {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 910px;
     top: 360px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.multiplie {
+#multiplie {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 1015px;
     top: 360px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.quatre {
+#quatre {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 700px;
     top: 415px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.cinq {
+#cinq {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 805px;
     top: 415px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.six {
+#six {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 910px;
     top: 415px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.soustrait {
+#soustrait {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 1015px;
     top: 415px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.un {
+#un {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 700px;
     top: 470px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.deux {
+#deux {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 805px;
     top: 470px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.trois {
+#trois {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 910px;
     top: 470px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.additionne {
+#additionne {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 1015px;
     top: 470px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.inversion {
+#inversion {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 700px;
     top: 525px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.zero {
+#zero {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 805px;
     top: 525px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.virgule {
+#virgule {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 910px;
     top: 525px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.egal {
+#egal {
     position: absolute;
     width: 100px;
     height: 50px;
-    border: 2px solid black;
     left: 1015px;
     top: 525px;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

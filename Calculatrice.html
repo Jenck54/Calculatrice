@@ -3,31 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1#0">
     <link rel="stylesheet" href="Calculatrice.css">
     <title>Document</title>
 </head>
 <body>
-    <div class="ecran"></div>
-    <div class="c"></div>
-    <div class="ce"></div>
-    <div class="retour"></div>
-    <div class="divise"></div>
-    <div class="multiplie"></div>
-    <div class="additionne"></div>
-    <div class="soustrait"></div>
-    <div class="egal"></div>
-    <div class="zero"></div>
-    <div class="un"></div>
-    <div class="deux"></div>
-    <div class="trois"></div>
-    <div class="quatre"></div>
-    <div class="cinq"></div>
-    <div class="six"></div>
-    <div class="sept"></div>
-    <div class="huit"></div>
-    <div class="neuf"></div>
-    <div class="inversion"></div>
-    <div class="virgule"></div>
+    <div id="ecran"></div>
+    <button onclick="appuitouche" id="c">C</button>
+    <button onclick="appuitouche" id="ce">CE</button>
+    <button onclick="appuitouche" id="retour">&xlarr;</button>
+    <button onclick="appuitouche" id="divise">/</button>
+    <button onclick="appuitouche" id="multiplie">*</button>
+    <button onclick="appuitouche" id="additionne">+</button>
+    <button onclick="appuitouche" id="soustrait">-</button>
+    <button onclick="appuitouche" id="egal">=</button>
+    <button onclick="appuitouche('0')" id="zero">0</button>
+    <button onclick="appuitouche('1')" id="un">1</button>
+    <button onclick="appuitouche('2')" id="deux">2</button>
+    <button onclick="appuitouche('3')" id="trois">3</button>
+    <button onclick="appuitouche('4')" id="quatre">4</button>
+    <button onclick="appuitouche('5')" id="cinq">5</button>
+    <button onclick="appuitouche('6')" id="six">6</button>
+    <button onclick="appuitouche('7')" id="sept">7</button>
+    <button onclick="appuitouche('8')" id="huit">8</button>
+    <button onclick="appuitouche('9')" id="neuf">9</button>
+    <button onclick="appuitouche" id="inversion">&plus;&sol;&minus;</button>
+    <button onclick="appuitouche" id="virgule">,</button>
+    <script src="Calculatrice.js"></script>
 </body>
 </html>
